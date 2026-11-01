@@ -2,6 +2,7 @@
 
 Um jogo de bolhas (estilo *bubble shooter*) feito em HTML5 Canvas + JavaScript puro, sem dependências. Roda direto no navegador — só abrir o arquivo `index.html`.
 
+https://publiosantos.github.io/BolhaShooter/
 
 ## 🎮 Como jogar
 
